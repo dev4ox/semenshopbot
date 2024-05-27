@@ -1,6 +1,6 @@
 # токен бота :str
-# bot_token = '7130147751:AAG3N6430lU2kEzJkInQhZzDOWnO84TeQ60' # Тест
-bot_token = '6369287550:AAGeOM6JPv6fcvnWRkCBRuHcTT-jYTSru_I'
+# bot_token = '' # Тест
+bot_token = ''
 # ник бота без @ :str
 # bot_login = 'testdev4oxBot' # Тест
 bot_login = 'SpatShopBot'
